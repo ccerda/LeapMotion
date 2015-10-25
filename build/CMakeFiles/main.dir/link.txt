@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++    -std=c++11   CMakeFiles/main.dir/main.cpp.o  -o ../bin/main  -L/home/chult/Dropbox/HackingEdu/LeapSDK/lib/x64 -rdynamic -lLeap ../bin/libControls.a -Wl,-rpath,/home/chult/Dropbox/HackingEdu/LeapSDK/lib/x64 

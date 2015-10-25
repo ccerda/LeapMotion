@@ -1,0 +1,2 @@
+/home/chult/Dropbox/HackingEdu/Prototype/build/CMakeFiles/main.dir
+/home/chult/Dropbox/HackingEdu/Prototype/build/CMakeFiles/Controls.dir
